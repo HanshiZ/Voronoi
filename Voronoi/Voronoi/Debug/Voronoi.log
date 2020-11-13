@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\l0new\Desktop\Voronoi\Voronoi\main.cpp(36,1): error C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(266): message : see declaration of 'strncat'
+C:\Users\l0new\Desktop\Voronoi\Voronoi\main.cpp(37,1): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
